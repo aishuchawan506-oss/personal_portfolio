@@ -1,2 +1,2 @@
 # personal_portfolio
-My personal Portfolio Website using HTML CSS 
+My personal Portfolio using HTML CSS 
